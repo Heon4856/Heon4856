@@ -1,3 +1,3 @@
-# Sungheon
-현재 원티브 프리온보딩에 참여중.
-https://github.com/Wanted-preonboarding-team4
+현재하고 있는 작업  
+https://github.com/Heon4856/8percent-assignment-2
+ 
